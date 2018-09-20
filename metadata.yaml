@@ -1,0 +1,34 @@
+_repo: The-Restless-Sex_53289
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Stevens, William Dodge
+    alias: Stevens, W. D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '6720'
+    url: http://www.gutenberg.org/2009/agents/6720
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2016-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: The Restless Sex
+url: http://www.gutenberg.org/ebooks/53289
